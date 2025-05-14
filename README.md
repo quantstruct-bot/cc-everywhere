@@ -1,22 +1,21 @@
-# Adobe Express Embed SDK
-
-This is the repo for the SDK's [documentation site](https://developer.adobe.com/embed-sdk/docs/).
-
-## Sample
-
-To run the sample, `cd` into `v4-sample` first and follow the instructions in the [sample.md](/v4-sample/sample.md) file.
-
-## Contributing
-
-Before raising a pull request, please run the following tests:
-
-```bash
-yarn test:links
-yarn test:lint
-```
-
-Markdown linting errors can be fixed automatically (with some luck) by running:
-
-```bash
-yarn fix:lint
-```
+IyBBZG9iZSBFeHByZXNzIE1CRUQgU0RLClRoaXMgaXMgdGhlIHJlcG8gZm9y
+IHRoZSBTREsncyBkb2N1bWVudGF0aW9uIHNpdGUuCgojIyBTYW1wbGUKVG8g
+cnVuIHRoZSBzYW1wbGUsIGBjZGAgaW50byBgdjQtc2FtcGxlYCBmaXJzdCBh
+bmQgZm9sbG93IHRoZSBpbnN0cnVjdGlvbnMgaW4gdGhlIHNhbXBsZS5tZCBm
+aWxlLgoKIyMgQ29udHJpYnV0aW5nCkJlZm9yZSByYWlzaW5nIGEgcHVsbCBy
+ZXF1ZXN0LCBwbGVhc2UgcnVuIHRoZSBmb2xsb3dpbmcgdGVzdHM6CmBgYHlh
+cm4gdGVzdDpsaW5rcwp5YXJuIHRlc3Q6bGludGBgCgpNYXJrZG93biBsaW50
+aW5nIGVycm9ycyBjYW4gYmUgZml4ZWQgYXV0b21hdGljYWxseSAod2l0aCBz
+b21lIGx1Y2spIGJ5IHJ1bm5pbmc6CmBgYHlhcm4gZml4OmxpbnRgYAoKIyMg
+S25vd24gSXNzdWVzIHdpdGggQXV0aGVudGljYXRpb24gb24gQnJvd3NlciBJ
+bmNvZ25pdG8vUHJpdmF0ZSBNb2RlCgpJZiB5b3UgYXJlIGhhcmluZyBhdXRo
+ZW50aWNhdGlvbiBpc3N1ZXMgb24gQ2hyb21lIGluY29nbml0byBvciBTYWZh
+cmkgUHJpdmF0ZSBNb2RlLCBub3RlIHRoYXQ6CgotIFNvbWUgc2lnbi1pbiBw
+cm9jZXNzZXMgbWF5IGZhaWwgd2hlbiBicm93c2luZyBpbiB0aGVzZSBtb2Rl
+cywgYmVjYXVzZSBjb29raWVzIGFuZCBzZXNzaW9uIHN0b3JhZ2UgbWF5IGJl
+IGRpc2FibGVkLgpSZXNvbHZlIGJ5OgoKLSBUcnlpbmcgYSBub24taW5jb2du
+aXRvL25vbi1wcml2YXRlIHdpbmRvdyBmb3Igc2lnbi1pbi4KLSBFbmFibGlu
+ZyB0aGlyZC1wYXJ0eSBjb29raWVzIG9yIGFsbG93aW5nIGFsbCBjb29raWVz
+IGFuZCBzaXRlIGRhdGEgdG8gYmUgc2V0LgoKLSBJZiB5b3UgbXVzdCB1c2Ug
+SW5jb2duaXRvL1ByaXZhdGUgd2luZG93cywgdHJ5IHNpZ24taW4gd2l0aCBh
+IHJlZ3VsYXIgYnJvd3NlciBzZXNzaW9uLg==
